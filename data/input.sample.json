@@ -1,0 +1,7 @@
+{
+  "hotelUrl": "https://www.booking.com/hotel/example.en-gb.html#tab-reviews",
+  "maxItems": 100,
+  "language": "en",
+  "outputPath": "data/booking_reviews_output.json",
+  "formats": ["json", "csv", "xlsx"]
+}
