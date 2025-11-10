@@ -1,0 +1,15 @@
+{
+  "user_agent": "BookingReviewsScraper/1.0 (+https://bitbash.dev)",
+  "timeout": 20,
+  "max_retries": 3,
+  "backoff_factor": 0.7,
+  "default_max_items": 250,
+  "output": {
+    "path": "data/output.sample.json",
+    "formats": ["json", "csv"]
+  },
+  "proxy": {
+    "http": null,
+    "https": null
+  }
+}
