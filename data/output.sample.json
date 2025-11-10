@@ -1,0 +1,89 @@
+[
+  {
+    "hotelStats": {
+      "totalReviews": 263,
+      "scores": {
+        "hotel_staff": {
+          "score": 9.5,
+          "translation": "Staff",
+          "bounds": {
+            "lower": 8.1,
+            "higher": 9.44
+          }
+        },
+        "hotel_clean": {
+          "score": 8.87,
+          "translation": "Cleanliness",
+          "bounds": {
+            "lower": 7.46,
+            "higher": 9.13
+          }
+        }
+      }
+    },
+    "score": 10,
+    "reviewDate": 1661058490,
+    "title": "Geweldige, rustige locatie",
+    "positiveContent": "Schitterende, rustige locatie, tegen het bos aan...",
+    "negativeContent": "Geen ontbijt of gelegenheid om hapje/drankje te bestellen.",
+    "language": "nl",
+    "guest": {
+      "name": "Jeroen",
+      "country": "Nederland",
+      "type": "Gezin"
+    },
+    "booking": {
+      "roomType": "Villa met 1 Slaapkamer",
+      "checkIn": "2022-08-19",
+      "checkOut": "2022-08-21",
+      "nights": 2,
+      "customerType": "families"
+    },
+    "photos": []
+  },
+  {
+    "hotelStats": {
+      "totalReviews": 263,
+      "scores": {
+        "hotel_staff": {
+          "score": 9.5,
+          "translation": "Staff",
+          "bounds": {
+            "lower": 8.1,
+            "higher": 9.44
+          }
+        },
+        "hotel_clean": {
+          "score": 8.87,
+          "translation": "Cleanliness",
+          "bounds": {
+            "lower": 7.46,
+            "higher": 9.13
+          }
+        }
+      }
+    },
+    "score": 8,
+    "reviewDate": 1662141200,
+    "title": "Great stay, lovely staff",
+    "positiveContent": "The staff were incredibly friendly and helpful throughout the stay.",
+    "negativeContent": "The room was a bit small for a family of four.",
+    "language": "en",
+    "guest": {
+      "name": "Alice",
+      "country": "United Kingdom",
+      "type": "Family"
+    },
+    "booking": {
+      "roomType": "Family Room",
+      "checkIn": "2022-09-01",
+      "checkOut": "2022-09-05",
+      "nights": 4,
+      "customerType": "families"
+    },
+    "photos": [
+      "https://example.com/photos/review1_photo1.jpg",
+      "https://example.com/photos/review1_photo2.jpg"
+    ]
+  }
+]
